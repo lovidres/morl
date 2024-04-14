@@ -1,1 +1,1 @@
-console.log("this is last")
+console.log("last")
